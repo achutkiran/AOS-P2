@@ -1,0 +1,7 @@
+5 20 10 1000
+
+0 localhost 1234 0
+1 localhost 1233 0
+2 localhost 1230 0
+3 localhost 1232 1
+4 localhost 1235 1
